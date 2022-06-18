@@ -1,0 +1,24 @@
+{
+    "name": "esbuild-html",
+    "version": "0.1.0",
+    "description": "A simple esbuild plugin that extracts entrypoints from a html file",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/schwada/esbuild-html.git"
+    },
+    "keywords": [
+        "esbuild",
+        "html",
+        "plugin"
+    ],
+    "author": "David Schwam",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/schwada/esbuild-html/issues"
+    },
+    "homepage": "https://github.com/schwada/esbuild-html",
+    "dependencies": {
+        "@xmldom/xmldom": "^0.8.2"
+    }
+}
